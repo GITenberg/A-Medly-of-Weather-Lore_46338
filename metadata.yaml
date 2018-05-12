@@ -9,6 +9,8 @@ covers:
 - cover_type: archival
   image_path: 46338-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46338#A-Medly-of-Weather-Lore
 gutenberg_issued: '2014-07-20'
 gutenberg_type: Text
 identifiers:
